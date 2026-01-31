@@ -86,9 +86,9 @@ school_config <- list(
   colors = list(
     primary             = "#DB1934",   # SEMO logo red for high-impact accents
     accent              = "#030001",   # near-black elements from logo contrast
-    accent_secondary    = "#8F8F8F",   # medium gray for gradients / highlights
+    accent_secondary    = "#ED1E2E",   # a bit more red instead of mid gray
     background          = "#F0F0F0",   # light gray keeps pages bright without navy
-    background_secondary= "#D9D9D9"   # darker gray for cards/sections
+    background_secondary= "#F2D8DA"   # subtle pale red to replace the gray card tone
   ),
   logo = "SEMOlogo.png",
   coaches_emails = c(
