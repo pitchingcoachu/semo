@@ -1,4 +1,4 @@
-name: Daily GCU Data Sync and Deploy
+name: Daily SEMO Data Sync and Deploy
 
 on:
   schedule:
