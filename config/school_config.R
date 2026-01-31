@@ -92,7 +92,10 @@ school_config <- list(
   ),
   logo = "SEMOlogo.png",
   coaches_emails = c(
-    "mkinney@semo.edu"
+    "mkinney@semo.edu",
+    "tezell@semo.edu",
+    "asawyers@semo.edu",
+    "cjresetich@semo.edu"
   ),
   notes_api = list(
     base_url = "https://script.google.com/macros/s/AKfycbzdN0gJgRQPxLGrzx9N1m8HDVaF9ukH6iMeVKUbgR6VAMNXS7mhc2URtJZ0ySV0Xfio/exec",
