@@ -1,7 +1,7 @@
 # School-specific overrides for the shared app.
 # Copy this file to another repo and keep the same structure when you need to customize colors, logos, APIs, etc.
 school_config <- list(
-  team_code = "GCU",
+  team_code = "SEMO",
   # Player filters
   allowed_pitchers = c(
     "Lee, Aidan",
@@ -101,36 +101,6 @@ school_config <- list(
     "Nielsen, Jarret"
   ),
   allowed_campers = c(
-    "Bowman, Brock",
-    "Daniels, Tyke",
-    "Pearson, Blake",
-    "Rodriguez, Josiah",
-    "James, Brody",
-    "Nevarez, Matthew",
-    "Nunes, Nolan",
-    "Parks, Jaeden",
-    "Hill, Grant",
-    "McGinnis, Ayden",
-    "Morton, Ryker",
-    "McGuire, John",
-    "Willson, Brandon",
-    "Lauterbach, Camden",
-    "Turnquist, Dylan",
-    "Bournonville, Tanner",
-    "Evans, Lincoln",
-    "Gnirk, Will",
-    "Mann, Tyson",
-    "Neneman, Chase",
-    "Warmus, Joaquin",
-    "Kapadia, Taylor",
-    "Stoner, Timothy",
-    "Bergloff, Cameron",
-    "Hamm, Jacob",
-    "Hofmeister, Ben",
-    "Moo, Eriksen",
-    "Peltz, Zayden",
-    "Huff, Tyler",
-    "Moseman, Cody"
   ),
   colors = list(
     primary             = "#0d1224",   # deep navy used in the dark-mode radial gradient (gcu/app.R:17666-17674)
@@ -140,20 +110,16 @@ school_config <- list(
     background_secondary= "#e8ecf1"   # the matching secondary background tone
     
   ),
-  logo = "GCUlogo.png",
+  logo = "SEMOlogo.png",
   coaches_emails = c(
-    "banni17@yahoo.com",
-    "adam.racine@aol.com",
-    "Njcbaseball08@gmail.com",
-    "ahalverson@pitchingcoachu.com",
-    "jdabisch05@gmail.com"
+    "mkinney@semo.edu
   ),
   notes_api = list(
-    base_url = "https://script.google.com/macros/s/AKfycbwuftWhRZGV7f1lWFJnC5mBcxaXh7P7Xhlc7_Lvr5r6ZO_GYKbv6YxCp7B0AXsvCKY0/exec",
-    token = "GCUbaseball"
+    base_url = "https://script.google.com/macros/s/AKfycbzdN0gJgRQPxLGrzx9N1m8HDVaF9ukH6iMeVKUbgR6VAMNXS7mhc2URtJZ0ySV0Xfio/exec",
+    token = "SEMObaseball"
   ),
   extra = list(
-    school_name = "GCU",
+    school_name = "SEMO",
     ftp_folder = "trackman",
     cloudinary_folder = "trackman"
   )
