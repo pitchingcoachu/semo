@@ -131,7 +131,18 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Auto-update GCU data $(date)"
-          # Rebase safely even with untracked/unstaged files from earlier steps
-          git pull --rebase --autostash origin main
-          git push
+          success=0
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push; then
+              success=1
+              break
+            fi
+            echo "Pull/push attempt ${attempt} failed; retrying..."
+            sleep $((attempt * 5))
+          done
+
+          if [ "$success" -ne 1 ]; then
+            echo "Failed to push data updates after 3 attempts"
+            exit 1
+          fi
         fi
