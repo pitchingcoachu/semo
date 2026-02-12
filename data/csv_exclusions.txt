@@ -18,3 +18,5 @@
 20251026-BrazellField-Private-4_unverified.csv
 # Bad data from October 26 Private session 5
 20251026-BrazellField-Private-5_unverified.csv
+# Bad data from February 8, 2026 Missouri State private session 1
+v3_2026_02_08_20260207-SEMissouriState-Private-1_unverified.csv
