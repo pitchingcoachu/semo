@@ -1,4 +1,4 @@
-name: Daily SEMO Data Sync and Deploy
+name: Daily GMU Data Sync and Deploy
 
 permissions:
   contents: write
@@ -134,27 +134,7 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Auto-update GCU data $(date)"
-          stash_needed=0
-          if [ -n "$(git status --porcelain)" ]; then
-            git stash push -u -m "ci-autostash"
-            stash_needed=1
-          fi
-          success=0
-          for attempt in 1 2 3; do
-            if git pull --rebase origin main && git push; then
-              success=1
-              break
-            fi
-            echo "Pull/push attempt ${attempt} failed; retrying..."
-            sleep $((attempt * 5))
-          done
-
-          if [ "$stash_needed" -eq 1 ]; then
-            git stash drop
-          fi
-
-          if [ "$success" -ne 1 ]; then
-            echo "Failed to push data updates after 3 attempts"
-            exit 1
-          fi
+          # Rebase safely even with untracked/unstaged files from earlier steps
+          git pull --rebase --autostash origin main
+          git push
         fi
