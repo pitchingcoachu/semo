@@ -1089,3 +1089,5 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260212-PaulDemieMainieriField-1_unverified.csv
 # Auto-pruned non-team data
 20260212-WilliamCarey-1_unverified.csv
+# Auto-pruned non-team data
+20260212-DicksonStadium-1_unverified.csv
