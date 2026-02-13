@@ -1,2 +1,0 @@
-# Auto-merge concurrent appended exclusions to avoid CI rebase conflicts.
-data/csv_exclusions.txt merge=union
