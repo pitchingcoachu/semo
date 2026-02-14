@@ -2,7 +2,9 @@
 # Copy this file to another repo and keep the same structure when you need to customize colors, logos, APIs, etc.
 school_config <- list(
   team_code = "SEMO",
-  # Player filters
+  # Additional school-code markers used in TrackMan team columns (optional).
+  # These are checked alongside team_code during allowed-player verification.
+  team_code_markers = c("GRA_CAN", "SEMO"),
   allowed_pitchers = c(
     "Earwood, Ty",
     "Terranova, Joe",
