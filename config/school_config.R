@@ -4,7 +4,7 @@ school_config <- list(
   team_code = "SEMO",
   # Additional school-code markers used in TrackMan team columns (optional).
   # These are checked alongside team_code during allowed-player verification.
-  team_code_markers = c("GRA_CAN", "SEMO"),
+  team_code_markers = c("SOU_RED", "SEMO"),
   allowed_pitchers = c(
     "Earwood, Ty",
     "Terranova, Joe",
