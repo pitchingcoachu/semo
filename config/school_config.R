@@ -29,7 +29,7 @@ school_config <- list(
     "Bourgeois, Noah",
     "Lyman, Kolton",
     "Pennington, Mason",
-    "Wnukowski, Matt",
+    "Wnukowski, Matthew",
     "Klus, John",
     "Sims, Tank",
     "Marchi, Cameron",
