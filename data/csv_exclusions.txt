@@ -2799,3 +2799,17 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260215-UTRGVStadium-5.csv
 # Auto-pruned non-team data
 20260216-HDetterField-1_unverified.csv
+# Auto-pruned non-team data
+20260213-PaulDemieMainieriField-3.csv
+# Auto-pruned non-team data
+20260216-700-HughAdamsPark-1_unverified.csv
+# Auto-pruned non-team data
+20260216-Arlington-1_unverified.csv
+# Auto-pruned non-team data
+20260216-HDetterField-2_unverified.csv
+# Auto-pruned non-team data
+20260216-HenleyField-1_unverified.csv
+# Auto-pruned non-team data
+20260216-IrwinField-1_unverified.csv
+# Auto-pruned non-team data
+20260216-NickDenesField-1_unverified.csv
