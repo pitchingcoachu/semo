@@ -2993,3 +2993,43 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260217-Vanderbilt-1_unverified.csv
 # Auto-pruned non-team data
 20260217-WilsonField-1_unverified.csv
+# Auto-pruned non-team data
+20260217-Arlington-1_unverified.csv
+# Auto-pruned non-team data
+20260217-BenMeyerDiamond-1_unverified.csv
+# Auto-pruned non-team data
+20260217-BlairField-1_unverified.csv
+# Auto-pruned non-team data
+20260217-BrownStroudField-1_unverified.csv
+# Auto-pruned non-team data
+20260217-DallasBaptist-1_unverified.csv
+# Auto-pruned non-team data
+20260217-PhoenixMunicipal-1_unverified.csv
+# Auto-pruned non-team data
+20260217-PlainsmanPark-1_unverified.csv
+# Auto-pruned non-team data
+20260217-RiceUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260217-UArizona-1_unverified.csv
+# Auto-pruned non-team data
+20260217-UNorthFlorida-1_unverified.csv
+# Auto-pruned non-team data
+20260217-UofMiami-1_unverified.csv
+# Auto-pruned non-team data
+20260217-DicksonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260217-DicksonStadium-2_unverified.csv
+# Auto-pruned non-team data
+20260217-DicksonStadium-3_unverified.csv
+# Auto-pruned non-team data
+20260217-LindseyNelsonStadium-2.csv
+# Auto-pruned non-team data
+20260217-Olsen-1.csv
+# Auto-pruned non-team data
+20260217-SheheeStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260217-Tankersleyfield-4_unverified.csv
+# Auto-pruned non-team data
+20260217-UTRGVStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260217-Vanderbilt-1.csv
