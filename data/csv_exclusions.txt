@@ -3385,3 +3385,21 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260219-WinterholterField-1_unverified.csv
 # Auto-pruned non-team data
 20260219-YoungMemorialField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-BrazellField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-KellField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-USIField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-705-CalBaptistBaseballField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-DavidStory-2_unverified.csv
+# Auto-pruned non-team data
+20260219-KellField-2_unverified.csv
+# Auto-pruned non-team data
+20260219-KellField-3_unverified.csv
+# Auto-pruned non-team data
+20260219-KleinFamilyField-1_unverified.csv
+# Auto-pruned non-team data
+20260219-UArizona-1_unverified.csv
