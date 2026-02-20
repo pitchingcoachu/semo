@@ -3403,3 +3403,23 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260219-KleinFamilyField-1_unverified.csv
 # Auto-pruned non-team data
 20260219-UArizona-1_unverified.csv
+# Auto-pruned non-team data
+20260214-RileyPark-2.csv
+# Auto-pruned non-team data
+20260219-705-CalBaptistBaseballField-1.csv
+# Auto-pruned non-team data
+20260219-BrazellField-1.csv
+# Auto-pruned non-team data
+20260219-GeorgeFox-1.csv
+# Auto-pruned non-team data
+20260219-GrierField-1.csv
+# Auto-pruned non-team data
+20260219-KleinFamilyField-1.csv
+# Auto-pruned non-team data
+20260219-PKPark-1.csv
+# Auto-pruned non-team data
+20260219-UArizona-1.csv
+# Auto-pruned non-team data
+20260219-USIField-1.csv
+# Auto-pruned non-team data
+20260219-YoungMemorialField-1.csv
