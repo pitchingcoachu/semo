@@ -13,7 +13,7 @@ school_config <- list(
     "Shakotko, Demitri",
     "Carroll, Andrew",
     "Sullivan, Cal",
-    "Keldsen, JoJo",
+    "Keldsen, Joseph",
     "Schrack, Carson",
     "Champion, Caleb",
     "Ramirez, Andrew",
