@@ -5119,3 +5119,5 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260223-PeteBeidenField-1_unverified.csv
 # Auto-pruned non-team data
 20260223-WinthropUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260223-BaggettStadium-1_unverified.csv
