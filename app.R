@@ -5313,8 +5313,12 @@ pitch_data <- pitch_data %>%
     KorBB           = as.character(KorBB),
     Balls           = as.numeric(Balls),
     Strikes         = as.numeric(Strikes),
-    # Convert FourSeamFastBall to Fastball
-    TaggedPitchType = ifelse(TaggedPitchType == "FourSeamFastBall", "Fastball", TaggedPitchType)
+    # Normalize specific TrackMan labels to app pitch buckets used in counts/summaries
+    TaggedPitchType = dplyr::case_when(
+      TaggedPitchType == "FourSeamFastBall" ~ "Fastball",
+      TaggedPitchType == "TwoSeamFastBall"  ~ "Sinker",
+      TRUE ~ TaggedPitchType
+    )
   ) %>%
   dplyr::filter(!is.na(TaggedPitchType) & tolower(TaggedPitchType) != "undefined") %>%
   force_pitch_levels()
