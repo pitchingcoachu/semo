@@ -5583,3 +5583,13 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260224-WoffordCollege-1.csv
 # Auto-pruned non-team data
 20260224-YoungMemorialField-1.csv
+# Auto-pruned non-team data
+20260221-BobSteinStadium-1.csv
+# Auto-pruned non-team data
+20260225-BurchellStallard-1_unverified.csv
+# Auto-pruned non-team data
+20260225-HubHollisField-1_unverified.csv
+# Auto-pruned non-team data
+20260225-RudyAbbottField-1_unverified.csv
+# Auto-pruned non-team data
+20260225-WarHawkField-1_unverified.csv
