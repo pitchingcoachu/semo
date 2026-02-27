@@ -5829,3 +5829,21 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260225-WestVirginia-1.csv
 # Auto-pruned non-team data
 20260225-WoernerField-1.csv
+# Auto-pruned non-team data
+20260220-CypressCollege-1_unverified.csv
+# Auto-pruned non-team data
+20260220-CypressCollege-3_unverified.csv
+# Auto-pruned non-team data
+20260222-PershingPark-1_unverified.csv
+# Auto-pruned non-team data
+20260226-700-HughAdamsPark-1_unverified.csv
+# Auto-pruned non-team data
+20260226-BenedettiDiamond-1_unverified.csv
+# Auto-pruned non-team data
+20260226-BlairField-1_unverified.csv
+# Auto-pruned non-team data
+20260226-JohnAltobelliPark-1_unverified.csv
+# Auto-pruned non-team data
+20260226-PershingPark-1_unverified.csv
+# Auto-pruned non-team data
+20260226-WichitaState-1_unverified.csv
