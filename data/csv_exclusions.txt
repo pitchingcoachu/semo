@@ -5847,3 +5847,11 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260226-PershingPark-1_unverified.csv
 # Auto-pruned non-team data
 20260226-WichitaState-1_unverified.csv
+# Auto-pruned non-team data
+20260226-DallasBaptist-1_unverified.csv
+# Auto-pruned non-team data
+20260226-BaggettStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260226-GoldenWestCollege-1_unverified.csv
+# Auto-pruned non-team data
+20260226-RonaldGallagherStad-1_unverified.csv
