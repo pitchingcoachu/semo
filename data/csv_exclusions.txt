@@ -7395,3 +7395,19 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260301-WoffordCollege-1_unverified.csv
 # Auto-pruned non-team data
 20260301-YoungMemorialField-1_unverified.csv
+# Auto-pruned non-team data
+20260301-Arlington-4_unverified.csv
+# Auto-pruned non-team data
+20260301-DicksonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260301-GaryWright-1_unverified.csv
+# Auto-pruned non-team data
+20260301-HuskyField-1_unverified.csv
+# Auto-pruned non-team data
+20260301-LathamPark-4_unverified.csv
+# Auto-pruned non-team data
+20260301-LouBrockSportsComplex-1_unverified.csv
+# Auto-pruned non-team data
+20260301-TingStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260301-TrantField-1_unverified.csv
