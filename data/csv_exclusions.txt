@@ -7749,3 +7749,25 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260301-YoungMemorialField-1.csv
 # Auto-pruned non-team data
 20260302-HubHollisField-1_unverified.csv
+# Auto-pruned non-team data
+20260227-BobSteinStadium-1.csv
+# Auto-pruned non-team data
+20260227-FriersonField-1.csv
+# Auto-pruned non-team data
+20260227-GaryWright-1.csv
+# Auto-pruned non-team data
+20260228-WeberField-1.csv
+# Auto-pruned non-team data
+20260302-KleinField-1_unverified.csv
+# Auto-pruned non-team data
+20260302-Lipscomb-1_unverified.csv
+# Auto-pruned non-team data
+20260302-LoyolaMarymount-1_unverified.csv
+# Auto-pruned non-team data
+20260302-LSU-1_unverified.csv
+# Auto-pruned non-team data
+20260302-SeattleUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260302-UofWashington-1_unverified.csv
+# Auto-pruned non-team data
+20260302-UTArlington-1_unverified.csv
