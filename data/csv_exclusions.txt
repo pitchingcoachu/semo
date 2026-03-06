@@ -8583,3 +8583,33 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260305-HDetterField-1_unverified.csv
 # Auto-pruned non-team data
 20260305-TedABroerStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260305-700-HughAdamsPark-1_unverified.csv
+# Auto-pruned non-team data
+20260305-BridgeforthField-1_unverified.csv
+# Auto-pruned non-team data
+20260305-BrighamYoung-1_unverified.csv
+# Auto-pruned non-team data
+20260305-Cumberlands-1_unverified.csv
+# Auto-pruned non-team data
+20260305-Cumberlands-2_unverified.csv
+# Auto-pruned non-team data
+20260305-HarlanRogersSportsComplex-2_unverified.csv
+# Auto-pruned non-team data
+20260305-HDetterField-2_unverified.csv
+# Auto-pruned non-team data
+20260305-JohnAltobelliPark-1_unverified.csv
+# Auto-pruned non-team data
+20260305-KansasUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260305-MarichFieldLaptop-1_unverified.csv
+# Auto-pruned non-team data
+20260305-MSST-1_unverified.csv
+# Auto-pruned non-team data
+20260305-PaulDemieMainieriField-1_unverified.csv
+# Auto-pruned non-team data
+20260305-RockwellField-1_unverified.csv
+# Auto-pruned non-team data
+20260305-SouthwesternOregonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260305-SouthwesternOregonStadium-2_unverified.csv
