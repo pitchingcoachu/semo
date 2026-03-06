@@ -8613,3 +8613,19 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260305-SouthwesternOregonStadium-1_unverified.csv
 # Auto-pruned non-team data
 20260305-SouthwesternOregonStadium-2_unverified.csv
+# Auto-pruned non-team data
+20260305-BruceHurst-1_unverified.csv
+# Auto-pruned non-team data
+20260305-McDonaldStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260305-RockwellField-2_unverified.csv
+# Auto-pruned non-team data
+20260305-TaylorStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260305-TexasStateUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260305-UCincinnati-1_unverified.csv
+# Auto-pruned non-team data
+20260305-UofOklahoma-1_unverified.csv
+# Auto-pruned non-team data
+20260305-McDonaldStadium-2_unverified.csv
