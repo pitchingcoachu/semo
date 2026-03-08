@@ -9605,3 +9605,63 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260307-WoernerField-1_unverified.csv
 # Auto-pruned non-team data
 20260307-YoungMemorialField-2_unverified.csv
+# Auto-pruned non-team data
+20260307-AlumniField-2_unverified.csv
+# Auto-pruned non-team data
+20260307-CalBerkeley-2_unverified.csv
+# Auto-pruned non-team data
+20260307-GaryWright-1_unverified.csv
+# Auto-pruned non-team data
+20260307-NickDenesField-1_unverified.csv
+# Auto-pruned non-team data
+20260307-PhoenixMunicipal-1_unverified.csv
+# Auto-pruned non-team data
+20260307-PlainsmanPark-2_unverified.csv
+# Auto-pruned non-team data
+20260307-PresleyAskewField-1_unverified.csv
+# Auto-pruned non-team data
+20260307-Texas-2_unverified.csv
+# Auto-pruned non-team data
+20260307-TonyGwynnStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260307-UArizona-1_unverified.csv
+# Auto-pruned non-team data
+20260307-UofPennsylvania-2_unverified.csv
+# Auto-pruned non-team data
+20260307-UTRGVStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260307-Vanderbilt-1_unverified.csv
+# Auto-pruned non-team data
+20260307-AbileneChristian-1.csv
+# Auto-pruned non-team data
+20260307-BartonCollege-2_unverified.csv
+# Auto-pruned non-team data
+20260307-BaumStadium-1.csv
+# Auto-pruned non-team data
+20260307-BenedettiDiamond-1_unverified.csv
+# Auto-pruned non-team data
+20260307-CarsonNewman-1_unverified.csv
+# Auto-pruned non-team data
+20260307-CarsonNewman-2_unverified.csv
+# Auto-pruned non-team data
+20260307-DedeauxField-1.csv
+# Auto-pruned non-team data
+20260307-GaryWright-3_unverified.csv
+# Auto-pruned non-team data
+20260307-GoldenWestCollege-1_unverified.csv
+# Auto-pruned non-team data
+20260307-HardtField-1_unverified.csv
+# Auto-pruned non-team data
+20260307-LathamPark-1_unverified.csv
+# Auto-pruned non-team data
+20260307-PhoenixMunicipal-1.csv
+# Auto-pruned non-team data
+20260307-SwellThomasStadium-1.csv
+# Auto-pruned non-team data
+20260307-UKentucky-1_unverified.csv
+# Auto-pruned non-team data
+20260307-UTArlington-2_unverified.csv
+# Auto-pruned non-team data
+20260307-Vanderbilt-1.csv
+# Auto-pruned non-team data
+20260307-WestVirginia-1.csv
