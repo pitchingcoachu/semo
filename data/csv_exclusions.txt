@@ -10449,3 +10449,29 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260309-JimReevesField-1_unverified.csv
 # Auto-pruned non-team data
 20260309-UCCUBallpark-1_unverified.csv
+# Auto-pruned non-team data
+20260309-BenedettiDiamond-1_unverified.csv
+# Auto-pruned non-team data
+20260309-GossStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260309-RockwellField-5_unverified.csv
+# Auto-pruned non-team data
+20260307-NickSwisherField-1.csv
+# Auto-pruned non-team data
+20260307-WeberField-2.csv
+# Auto-pruned non-team data
+20260308-Baylor-2.csv
+# Auto-pruned non-team data
+20260309-AmericaFirstBallpark-1.csv
+# Auto-pruned non-team data
+20260309-BaumStadium-1.csv
+# Auto-pruned non-team data
+20260309-BenedettiDiamond-1.csv
+# Auto-pruned non-team data
+20260309-GossStadium-1.csv
+# Auto-pruned non-team data
+20260309-HubHollisField-1.csv
+# Auto-pruned non-team data
+20260309-JimReevesField-1.csv
+# Auto-pruned non-team data
+20260309-UCCUBallpark-1.csv
