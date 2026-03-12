@@ -11017,3 +11017,59 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260311-JimPatterson-1_unverified.csv
 # Auto-pruned non-team data
 20260311-TCU-1_unverified.csv
+# Auto-pruned non-team data
+20260311-AlumniFieldUMBC-1_unverified.csv
+# Auto-pruned non-team data
+20260311-ArmyWestPoint-1_unverified.csv
+# Auto-pruned non-team data
+20260311-BenMeyerDiamond-1_unverified.csv
+# Auto-pruned non-team data
+20260311-CatholicUniversity-2_unverified.csv
+# Auto-pruned non-team data
+20260311-DurhamField-1_unverified.csv
+# Auto-pruned non-team data
+20260311-FAUBaseballStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260311-GulfCoastState-1_unverified.csv
+# Auto-pruned non-team data
+20260311-HubHollisField-2_unverified.csv
+# Auto-pruned non-team data
+20260311-J.DavidWalkerField-1_unverified.csv
+# Auto-pruned non-team data
+20260311-JackBowlingField-1_unverified.csv
+# Auto-pruned non-team data
+20260311-JackKaiser-1_unverified.csv
+# Auto-pruned non-team data
+20260311-JohnEulianoPark-1_unverified.csv
+# Auto-pruned non-team data
+20260311-JohnWSmithsonField-1_unverified.csv
+# Auto-pruned non-team data
+20260311-KansasState-1_unverified.csv
+# Auto-pruned non-team data
+20260311-MaestriField-2_unverified.csv
+# Auto-pruned non-team data
+20260311-MarichFieldLaptop-1_unverified.csv
+# Auto-pruned non-team data
+20260311-MelchingFielda-1_unverified.csv
+# Auto-pruned non-team data
+20260311-PKPark-1_unverified.csv
+# Auto-pruned non-team data
+20260311-SolGittlemanPark-1_unverified.csv
+# Auto-pruned non-team data
+20260311-SullivanField-1_unverified.csv
+# Auto-pruned non-team data
+20260311-TuckerFieldatBarcroftPark-1_unverified.csv
+# Auto-pruned non-team data
+20260311-UCCUBallpark-1_unverified.csv
+# Auto-pruned non-team data
+20260311-UNebraska-2_unverified.csv
+# Auto-pruned non-team data
+20260311-UniversityField-1_unverified.csv
+# Auto-pruned non-team data
+20260311-UofOklahoma-1_unverified.csv
+# Auto-pruned non-team data
+20260311-USouthAlabama-1_unverified.csv
+# Auto-pruned non-team data
+20260311-WinthropUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260311-WoffordCollege-1_unverified.csv
