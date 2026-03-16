@@ -12665,3 +12665,55 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260315-UTSanAntonio-1_unverified.csv
 # Auto-pruned non-team data
 20260315-Vanderbilt-1_unverified.csv
+# Auto-pruned non-team data
+20260315-705-CalBaptistBaseballField-1_unverified.csv
+# Auto-pruned non-team data
+20260315-LouBrockSportsComplex-1_unverified.csv
+# Auto-pruned non-team data
+20260315-AbileneChristian-1.csv
+# Auto-pruned non-team data
+20260315-BaggettStadium-1.csv
+# Auto-pruned non-team data
+20260315-Baylor-1.csv
+# Auto-pruned non-team data
+20260315-BlairField-1.csv
+# Auto-pruned non-team data
+20260315-CalBerkeley-1.csv
+# Auto-pruned non-team data
+20260315-DicksonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260315-DoakField-1.csv
+# Auto-pruned non-team data
+20260315-EarleCombsStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260315-ForbesFieldLaptop-2_unverified.csv
+# Auto-pruned non-team data
+20260315-J.DavidWalkerField-1_unverified.csv
+# Auto-pruned non-team data
+20260315-JackCoombs-1.csv
+# Auto-pruned non-team data
+20260315-JimBettieSmith-1.csv
+# Auto-pruned non-team data
+20260315-JimPatterson-1.csv
+# Auto-pruned non-team data
+20260315-KellField-1.csv
+# Auto-pruned non-team data
+20260315-PhoenixMunicipal-1.csv
+# Auto-pruned non-team data
+20260315-PittFieldUOR-2.csv
+# Auto-pruned non-team data
+20260315-PKPark-1.csv
+# Auto-pruned non-team data
+20260315-SouthwesternOregonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260315-SouthwesternOregonStadium-2_unverified.csv
+# Auto-pruned non-team data
+20260315-Tulane-1_unverified.csv
+# Auto-pruned non-team data
+20260315-UKentucky-1.csv
+# Auto-pruned non-team data
+20260315-UofAkron-1.csv
+# Auto-pruned non-team data
+20260315-UofOklahoma-1.csv
+# Auto-pruned non-team data
+20260315-UofSanDiego-1_unverified.csv
