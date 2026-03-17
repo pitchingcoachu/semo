@@ -13021,3 +13021,23 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260316-HenleyField-2_unverified.csv
 # Auto-pruned non-team data
 20260316-HubHollisField-1_unverified.csv
+# Auto-pruned non-team data
+20260316-MarichFieldLaptop-1_unverified.csv
+# Auto-pruned non-team data
+20260316-PaulDemieMainieriField-1_unverified.csv
+# Auto-pruned non-team data
+20260313-Cumberlands-1.csv
+# Auto-pruned non-team data
+20260314-TIGERBALLPARK-2.csv
+# Auto-pruned non-team data
+20260316-705-CalBaptistBaseballField-1_unverified.csv
+# Auto-pruned non-team data
+20260316-FalconField-1_unverified.csv
+# Auto-pruned non-team data
+20260316-FalconField-1.csv
+# Auto-pruned non-team data
+20260316-PaulDemieMainieriField-1.csv
+# Auto-pruned non-team data
+20260316-UCCUBallpark-1_unverified.csv
+# Auto-pruned non-team data
+20260316-UCCUBallpark-1.csv
