@@ -13577,3 +13577,19 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260318-WarHawkField-1_unverified.csv
 # Auto-pruned non-team data
 20260318-WichitaState-2_unverified.csv
+# Auto-pruned non-team data
+20260318-WaltersStateCC-1_unverified.csv
+# Auto-pruned non-team data
+20260318-DedeauxField-2_unverified.csv
+# Auto-pruned non-team data
+20260318-DixonField-1_unverified.csv
+# Auto-pruned non-team data
+20260318-FordhamUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260318-RayFisher-1_unverified.csv
+# Auto-pruned non-team data
+20260318-SouthwesternOregonStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260318-SouthwesternOregonStadium-2_unverified.csv
+# Auto-pruned non-team data
+20260318-StephenSchottBBS-1_unverified.csv
