@@ -13701,3 +13701,25 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260318-WichitaState-2.csv
 # Auto-pruned non-team data
 20260319-HarlanRogersSportsComplex-1_unverified.csv
+# Auto-pruned non-team data
+20260319-BowiesBallpark-1_unverified.csv
+# Auto-pruned non-team data
+20260319-CatholicUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260319-HarlanRogersSportsComplex-2_unverified.csv
+# Auto-pruned non-team data
+20260319-LSU-1_unverified.csv
+# Auto-pruned non-team data
+20260319-McBean-1_unverified.csv
+# Auto-pruned non-team data
+20260319-McBean-2_unverified.csv
+# Auto-pruned non-team data
+20260319-OleMiss-1_unverified.csv
+# Auto-pruned non-team data
+20260319-PaulDemieMainieriField-1_unverified.csv
+# Auto-pruned non-team data
+20260319-SolGittlemanPark-1_unverified.csv
+# Auto-pruned non-team data
+20260319-SouthernIdaho-1_unverified.csv
+# Auto-pruned non-team data
+20260319-WestVirginia-2_unverified.csv
