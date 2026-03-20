@@ -13743,3 +13743,59 @@ v3_11_16_20251108-BrazellField-Private-2_unverified.csv
 20260319-SaltLakeCC-1_unverified.csv
 # Auto-pruned non-team data
 20260319-WestVirginia-2.csv
+# Auto-pruned non-team data
+20260214-UNC-BP-1_unverified.csv
+# Auto-pruned non-team data
+20260220-CaseWesternReserve-2.csv
+# Auto-pruned non-team data
+20260221-CaseWesternReserve-1.csv
+# Auto-pruned non-team data
+20260311-SusanKSmithBaseballComplex-1_unverified.csv
+# Auto-pruned non-team data
+20260312-RockwellField-1.csv
+# Auto-pruned non-team data
+20260316-HenleyField-1_unverified.csv
+# Auto-pruned non-team data
+20260319-CatholicUniversity-1.csv
+# Auto-pruned non-team data
+20260319-JoeHunterField-1_unverified.csv
+# Auto-pruned non-team data
+20260319-McDonaldStadium-2.csv
+# Auto-pruned non-team data
+20260319-McDonaldStadium-3.csv
+# Auto-pruned non-team data
+20260319-SolGittlemanPark-1.csv
+# Auto-pruned non-team data
+20260319-SouthernIdaho-1.csv
+# Auto-pruned non-team data
+20260320-BinghamtonUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260320-BryantUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260320-CharlesCost-1_unverified.csv
+# Auto-pruned non-team data
+20260320-DSSComplex-1_unverified.csv
+# Auto-pruned non-team data
+20260320-ETStrawFamilyStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260320-FordhamUniversity-1_unverified.csv
+# Auto-pruned non-team data
+20260320-FriedmanDiamond-1_unverified.csv
+# Auto-pruned non-team data
+20260320-HarringtonVillage-1_unverified.csv
+# Auto-pruned non-team data
+20260320-HendersonFieldMarsHill-2_unverified.csv
+# Auto-pruned non-team data
+20260320-LendaandGlendaHillStadium-1_unverified.csv
+# Auto-pruned non-team data
+20260320-MillersvilleU-1_unverified.csv
+# Auto-pruned non-team data
+20260320-OdessaCollege-1_unverified.csv
+# Auto-pruned non-team data
+20260320-SaltLakeCC-1_unverified.csv
+# Auto-pruned non-team data
+20260320-SouthernIdaho-1_unverified.csv
+# Auto-pruned non-team data
+20260320-WaltersStateCC-1_unverified.csv
+# Auto-pruned non-team data
+20260320-WaltersStateCC-2_unverified.csv
