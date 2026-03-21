@@ -17,6 +17,9 @@ suppressPackageStartupMessages({
 deploy_app <- function() {
   tryCatch({
     cat("Starting deployment of Harvard app...\n")
+    if (file.exists(".Renviron")) {
+      readRenviron(".Renviron")
+    }
     
     # Run package installation script
     cat("Running package installation script...\n")
@@ -55,10 +58,38 @@ deploy_app <- function() {
       })
     }
     
-    # Deploy the app with better error handling
+    # Deploy the app with better error handling.
+    # shinyapps.io does not support deployApp(envVars=...).
     cat("Deploying to shinyapps.io...\n")
+    if (!file.exists(".Renviron")) {
+      cat("Warning: .Renviron not found; app may fall back to sqlite state backend in production.\n")
+    }
+
+    # Build an explicit deploy file list so large local CSV archives are never bundled.
+    all_files <- list.files(
+      path = ".",
+      recursive = TRUE,
+      all.files = TRUE,
+      include.dirs = FALSE,
+      no.. = TRUE
+    )
+    keep <- all_files
+    keep <- keep[!grepl("^\\.git/", keep)]
+    keep <- keep[!grepl("^\\.github/", keep)]
+    keep <- keep[!grepl("^docs/", keep)]
+    keep <- keep[!grepl("^packrat/", keep)]
+    keep <- keep[!grepl("^data/practice/", keep)]
+    keep <- keep[!grepl("^data/v3/", keep)]
+    keep <- keep[!grepl("\\.md$", keep, ignore.case = TRUE)]
+    keep <- keep[file.exists(keep)]
+
+    info <- file.info(keep)
+    total_mb <- sum(info$size, na.rm = TRUE) / (1024^2)
+    cat(sprintf("Deploying %d files (%.2f MB uncompressed)\n", length(keep), total_mb))
+
     deployApp(
       appDir = ".",
+      appFiles = keep,
       appName = "semobaseball",
       forceUpdate = TRUE,
       launch.browser = FALSE,
