@@ -1,10 +1,11 @@
 name: Daily SEMO Data Sync
 
 on:
-  schedule:
-    - cron: '0 21 * * *'   # 5:00 PM ET
-    - cron: '0 2 * * *'    # 10:00 PM ET
-    - cron: '0 12 * * *'   # 8:00 AM ET
+  # Automatic schedule disabled 2026-09-16: TrackMan pitch-data sync for SEMO
+  # now runs from pcudashboard (.github/workflows/semo-trackman-sync.yml),
+  # writing into the same shared Neon pitch_events table this workflow does.
+  # Running both on a schedule would double-sync/race the same rows.
+  # workflow_dispatch is kept as a manual fallback.
   workflow_dispatch:
 
 jobs:
